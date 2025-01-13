@@ -2,8 +2,9 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     include-all: true
+    proxies:
       - DIRECT
-      
+    
   - name: 🔰 手动选择
     type: select
     proxies:
