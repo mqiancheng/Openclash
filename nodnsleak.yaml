@@ -1,6 +1,10 @@
 proxy-groups:
   - name: 🚀 节点选择
     type: select
+    include-all: true
+    
+  - name: 🔰 手动选择
+    type: select
     proxies:
       - ♻️ 自动选择
       - 🇭🇰 香港节点
@@ -11,10 +15,6 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🔰 手动选择
       - DIRECT
-
-  - name: 🔰 手动选择
-    type: select
-    include-all: true
 
   - name: ♻️ 自动选择
     type: url-test
