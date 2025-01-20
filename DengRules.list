@@ -1,8 +1,13 @@
+# serv00服务器
 DOMAIN-SUFFIX,serv00.com
 DOMAIN,ss.botai.us.kg
-DOMAIN-KEYWORD,getgrass
-DOMAIN-KEYWORD,922porxy
+
+# 大米电影
 DOMAIN-SUFFIX,qrrs56.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-KEYWORD,ryplay7
 DOMAIN-KEYWORD,vip.ffzy
+
+# 其他杂项
+DOMAIN-KEYWORD,getgrass
+DOMAIN-KEYWORD,922porxy
