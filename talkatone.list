@@ -3,7 +3,7 @@
 # UPDATED: 2024-11-15 21:09
 # DESCRIPTION: talkatone 自动连接美国节点
 
-
+DOMAIN,ssp.api.tappx.com
 IP-CIDR,182.161.73.0/24
 IP-CIDR,205.164.56.0/24
 IP-CIDR,50.117.27.0/24
