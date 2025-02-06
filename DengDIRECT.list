@@ -5,7 +5,7 @@ DOMAIN,ss.botai.us.kg
 # 大米电影
 DOMAIN-SUFFIX,qrrs56.com
 DOMAIN-SUFFIX,rrcdnbf3.com
-DOMAIN-KEYWORD,ryplay
+DOMAIN-KEYWORD,cdn.ryplay
 DOMAIN-KEYWORD,vip.ffzy
 IP-CIDR,156.238.216.0/24
 IP-CIDR,156.238.217.0/24
