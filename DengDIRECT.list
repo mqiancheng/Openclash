@@ -1,6 +1,6 @@
 # serv00服务器
-DOMAIN-SUFFIX,serv00.com
-DOMAIN,ss.botai.us.kg
+#DOMAIN-SUFFIX,serv00.com
+#DOMAIN,ss.botai.us.kg
 
 # 大米电影
 DOMAIN-SUFFIX,qrrs56.com
