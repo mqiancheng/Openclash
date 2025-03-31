@@ -28,3 +28,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,integrate.api.nvidia.com
 DOMAIN-SUFFIX,grok.com
+# 匹配数据目标IP
+IP-CIDR,100.64.0.0/10
+IP-CIDR,211.137.58.20/32
+IP-CIDR,211.137.64.163/32
