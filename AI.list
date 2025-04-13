@@ -1,9 +1,11 @@
-# 内容 OpenAi Bard anthropic claude
+# 内容 OpenAi Bard anthropic claude grok
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,grok-api
+DOMAIN-KEYWORD,x.ai
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -25,8 +27,12 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,integrate.api.nvidia.com
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,api.x.ai
 
 # 匹配数据目标IP
 IP-CIDR,100.64.0.0/10
