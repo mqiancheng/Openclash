@@ -10,10 +10,10 @@ jobs:
     env:
       ACCOUNTS: >
         [
-        { "SSH_USER":"frog", "SSH_PASS":"WtUEGwxXg1", "HOST":"frog02.mikr.us", "PORT":"10465"}
-        { "SSH_USER":"mqianchengg", "SSH_PASS":"Dengyafei0011.", "HOST":"s15.serv00.com", "PORT":"22"}
-        { "SSH_USER":"BAVKkx5ugL", "SSH_PASS":"Dengyafei0011.", "HOST":"s16.serv00.com", "PORT":"22"}
-        { "SSH_USER":"duitiir", "SSH_PASS":"Dengyafei0011.", "HOST":"s16.serv00.com", "PORT":"22"}
+        { "SSH_USER":"frog", "SSH_PASS":"WtUEGwxXg1", "HOST":"frog02.mikr.us", "PORT":"10465"},
+        { "SSH_USER":"mqianchengg", "SSH_PASS":"Dengyafei0011.", "HOST":"s15.serv00.com", "PORT":"22"},
+        { "SSH_USER":"BAVKkx5ugL", "SSH_PASS":"Dengyafei0011.", "HOST":"s16.serv00.com", "PORT":"22"},
+        { "SSH_USER":"duitiir", "SSH_PASS":"Dengyafei0011.", "HOST":"s16.serv00.com", "PORT":"22"},
         { "SSH_USER":"nbosifyay", "SSH_PASS":"Dengyafei0011.", "HOST":"s16.serv00.com", "PORT":"22"}
         ]
     steps:
